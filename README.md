@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm Alex a Self Taught data scientist
+### Hi there 👋 I'm Alex 
 
 <!-- <h2 align="center"> 👨‍💻 Whoami</h2> -->
 <p align="center">

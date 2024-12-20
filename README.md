@@ -4,7 +4,23 @@
 <!-- <h2 align="center"> 👨‍💻 Whoami</h2> -->
 <p align="center">
   <samp>
-I am a Big Data Analytics Student and am currently dedicated to learning data science. Seeking opportunities where I can utilize my analytical, mathematical, and programming skills to solve real-life data science problems
+I am a passionate and detail-oriented student pursuing a Master of Engineering in Artificial Intelligence for Smart Sensors/Actuators, with a solid foundation in data analytics, machine learning, and IT support. My academic journey, combined with hands-on experience as a Machine Learning Intern and IT Support Assistant, has allowed me to develop strong technical skills in Python, SQL, system administration (Windows and Linux), and database management.
+
+I have worked on a range of projects, from developing machine learning models for real estate price prediction to creating system monitoring dashboards for IT infrastructure management. In addition to my technical expertise, I have a keen interest in contributing to research-driven environments, as demonstrated by my enthusiasm for roles in the aerospace and technology sectors.
+
+Currently, I am looking for opportunities to apply my skills in IT management, data analysis, and software development, where I can make meaningful contributions while continuing to grow professionally. I thrive in dynamic, collaborative environments and enjoy solving complex challenges with innovative, data-driven solutions.
+
+Key Skills:
+
+Python, SQL, JavaScript
+System Administration (Windows/Linux)
+Machine Learning & Data Analysis
+IT Support & Infrastructure Management
+Database Management (Oracle, PostgreSQL)
+Cloud Computing (Google Cloud)
+LowCode App Development (Oracle Apex)
+
+If you’re looking for someone who can bring both technical skills and a passion for innovation, feel free to connect!
 
   </samp>
   <br> <br>
